@@ -1,0 +1,16 @@
+.App {
+   text-align: center;
+   background-image: url('./img/galaxia-en-el-espacio_3840x2160_xtrafondos.com.jpg');
+   background-position: center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   height: 100vw;
+   
+}
+.CardRicky{
+   width:800px;
+   justify-content: center;
+   align-items: center;
+  
+   margin: 0 auto;
+}

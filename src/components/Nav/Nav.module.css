@@ -1,0 +1,19 @@
+.containerNav{
+    background-color: violet ;
+    height: 100px;
+    border: 2px solid rgb(112, 34, 108);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.links{
+ 
+    text-decoration:none;
+    padding: 20px;
+   color: aliceblue;
+   font-weight: bold;
+  
+
+}

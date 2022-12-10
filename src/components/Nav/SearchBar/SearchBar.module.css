@@ -1,0 +1,10 @@
+.searchBar {
+    display: flex;
+    flex-direction: row-reverse;
+ 
+    
+}
+.searchBar div {
+    top: 20px;
+    left: 20px;
+}
